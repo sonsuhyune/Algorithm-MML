@@ -1,2 +1,15 @@
 # Algorithm-MML
 Algorithm과 MML(Mathematics for Machine Learning) 스터디 Repo
+
+
+
+##### 교재
+- Algorithm : [http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
+- MML: [http://mml-book.github.io/](http://mml-book.github.io/)
+
+
+##### 진도
+|                  | Algorithm                       | MML              |  
+|:--- | :---:| :---: |  
+| Week1  (01.23)          |      Chapter2. Divide-and-conquer algorithms      | Part1 - 2. Linear Algebra    <br/>  (2.1~2.5) |  
+| Week2  (01.30)       |             |  |
