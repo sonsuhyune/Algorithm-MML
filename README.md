@@ -13,4 +13,4 @@ Algorithm과 MML(Mathematics for Machine Learning) 스터디 Repo
 |:--- | :---:| :---: |  
 | Week1  (01.23)          |      Chapter2. Divide-and-conquer algorithms      | Part1 - 2. Linear Algebra    <br/>  (2.1~2.5) |  
 | Week2  (01.30)       |    Chapter3. Decompositions of graphs         | Part1 - 2. Linear Algebra    <br/>  (2.6~exercise) |
-| Week3  (02.06)       |       |  |
+| Week3  (02.06)       |   Chapter4. Paths in graph    |  Part1 - 3. Analytic Geometry <br/> (3.1~3.6)|
